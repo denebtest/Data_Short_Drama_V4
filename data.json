@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "bookId": "6a56dd826a410e5f5d04c33b",
+      "name": "Zero to Alpha: Return of the Wolf King",
+      "chapterCount": 73,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005685/36129862-e015-4070-a2be-9d41bd3ece5d.jpg"
+    },
+    {
+      "bookId": "6a6975bf5d8851c89d0fcc8d",
+      "name": "My Brothers Beg for Forgiveness, But I Am the Dragon Queen!",
+      "chapterCount": 40,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005248/4e94000f-a6e0-42d8-b7e3-72c596308aad.jpg"
+    },
+    {
+      "bookId": "6a2bab24089fbc1d5e0b2b04",
+      "name": "The Extraordinary Mother of a Billionaire",
+      "chapterCount": 56,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204220150000004952/c81e7cbb-5cda-43c4-be62-50ded15db328.jpg"
+    },
+    {
+      "bookId": "6a601869953a7d189a0267a9",
+      "name": "Her Man Is the Son of Death",
+      "chapterCount": 66,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/200000000000003880/7b6df385-e40c-4aec-b4f1-fce2b34abb47.jpg"
+    },
+    {
+      "bookId": "6a71aad3d35a1776dd0e357d",
+      "name": "Little Miss Fortune",
+      "chapterCount": 68,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204201150000005847/293d5a82-8819-4a1f-a1f6-271b38f9336a.jpg"
+    },
+    {
+      "bookId": "6a67cca11ec24d81c80639bc",
+      "name": "Bound by Duty",
+      "chapterCount": 68,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/200000000000003200/02358c5b-9a7f-455b-889d-33e209c0bbcc.jpg"
+    },
+    {
+      "bookId": "6a31012f0a4db3ff73065e0f",
+      "name": "Mated to the Alpha and His Beta",
+      "chapterCount": 50,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005343/2a57cef3-addb-4a31-9a28-ea3ee44935a4.jpg"
+    },
+    {
+      "bookId": "6a6afb1f12895345d90f1e50",
+      "name": "Thirsty for the Wet Nurse",
+      "chapterCount": 37,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005882/c32855f2-1fa4-4bc6-8354-9f4402ada800.jpg"
+    },
+    {
+      "bookId": "6a6b2207a6fa584bc0046f6e",
+      "name": "Once Love Is Lost, It Never Returns",
+      "chapterCount": 62,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005823/de432980-1608-4333-8eb5-3679596e7df0.jpg"
+    },
+    {
+      "bookId": "6a6095f6d9ab3292c807c4ff",
+      "name": "Torn Between the Mafia Twins",
+      "chapterCount": 58,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005835/b4895851-accd-4fbd-9349-61dddbd6227f.jpg"
+    },
+    {
+      "bookId": "6a39e60d9206d01df60805df",
+      "name": "Reborn, I Gifted Her My Hell",
+      "chapterCount": 60,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005382/d936378a-639f-4dac-82dd-56beaadb43df.jpg"
+    }
+  ]
+}
