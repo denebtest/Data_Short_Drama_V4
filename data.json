@@ -78,6 +78,41 @@
       "chapterCount": 60,
       "enabled": true,
       "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/204200150000005382/d936378a-639f-4dac-82dd-56beaadb43df.jpg"
+    },
+        {
+      "bookId": "67c24a90717e250f170c4ebc",
+      "name": "Move Aside! I'm the Final Boss",
+      "chapterCount": 74,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/200000000000000190/9db5b2c0-810e-4d84-b9ce-55cdca0c0563.jpg"
+    },
+     {
+      "bookId": "6968674a59095c2b4e0e5bd7",
+      "name": "Ms. CEO's Baby Daddy Is the Merchant of Death",
+      "chapterCount": 74,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/200000000000000399/6f7dcfcd-45a1-4589-bfdc-6f25da4a2eec.jpg"
+    },
+         {
+      "bookId": "6a019f2130eabd647906e6b5",
+      "name": "My Secret Billionaire Husband",
+      "chapterCount": 80,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/209000000000004594/a03bc670-6ed2-4afd-ac55-c5246c467d87.jpg"
+    },
+             {
+      "bookId": "6825b4807cc7bf22e3085e15",
+      "name": "Don't Miss Me When I'm Gone",
+      "chapterCount": 63,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/200000000000000268/9ba8ff7c-7cb5-42b1-a753-3d5fe44f6784.jpg"
+    },
+    {
+      "bookId": "6a1d20be7bad31c4c409e0e1",
+      "name": "The CEO and Her Daughter's Secret Father",
+      "chapterCount": 74,
+      "enabled": true,
+      "coverImageUrl": "https://v-img.crazymaplestudios.com/v-images/book_cover_batch/200000000300000399/78612db0-8cd7-4ea2-bcd3-c9ca1ebb04bb.jpg"
     }
   ]
 }
