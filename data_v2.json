@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "tag": "Hot",
+  "books": [
+    {
+      "bookId": "2094674901263646721",
+      "name": "The Dragon Nanny of the Royal Court",
+      "chapterCount": 100,
+      "enabled": true,
+      "coverImageUrl": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/ai_poster/2094674344050360322/6e022e54bb3e485e8691555e8538c6d9/2095696776530157570_composed.jpg~tplv-vod-rs:540:720.webp",
+      "type": 1
+    },
+    {
+      "bookId": "2087464298091433986",
+      "name": "Chasing My Runaway Secretary",
+      "chapterCount": 100,
+      "enabled": true,
+      "coverImageUrl": "https://awscover.netshort.com/tos-vod-mya-v-da59d5a2040f5f77/coverG/prod/-179378180_3-4(3).png~tplv-vod-rs:540:720.webp",
+      "type": 1
+    }
+  ]
+}
